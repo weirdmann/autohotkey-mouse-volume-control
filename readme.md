@@ -6,3 +6,5 @@ I have a DPI button on my mouse that I didn't have any use for. I got an idea th
 
 
 I mapped my DPI button to an F24 key so it wouldn't interfere with any app. The script converts vertical mouse movement to volume value and sets it with AutoHotkey's `SetSound` function.
+
+In my opinion it is super convenient even when mapping to some useless keyboard key.
